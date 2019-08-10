@@ -1,0 +1,9 @@
+
+
+CREATE TABLE employee (
+  EmpId VARCHAR(10) NOT NULL,
+  Password VARCHAR(100) NOT NULL,
+  EmpEmail VARCHAR(100) NOT NULL,
+  EmpName VARCHAR(100) NOT NULL,
+  PRIMARY KEY (EmpId)
+);

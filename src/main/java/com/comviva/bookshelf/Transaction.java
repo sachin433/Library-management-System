@@ -8,6 +8,7 @@ public class Transaction {
 	String bookName;
 	String DOIssue;
 	String DOReturn;
+//costructor for class Transaction
 	Transaction(){
 		empId=null;
 		bookNo=null;
